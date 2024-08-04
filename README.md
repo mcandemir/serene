@@ -1,6 +1,8 @@
 # serene (in development)
+
 Llama3 Based Fine Tuned SQL Assistant
 
+- [ ] Prepare/Train Testing Model
 - [x] Prepare Base Code
 - [ ] Demo Database
 - [ ] Database Connection Handler
