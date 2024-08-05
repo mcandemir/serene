@@ -2,7 +2,7 @@
 
 Llama3 Based Fine Tuned SQL Assistant
 
-- [ ] Prepare/Train Testing Model
+- [ ] Prepare/Train Testing Model(s)
 - [x] Prepare Base Code
 - [ ] Demo Database
 - [ ] Database Connection Handler
