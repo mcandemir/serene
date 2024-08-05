@@ -2,9 +2,11 @@
 
 Llama3 Based Fine Tuned SQL Assistant
 
+- [ ] Prepare English SQL dataset(s)
 - [ ] Prepare Turkish SQL dataset
 - [ ] Prepare/Train Testing Model(s)
-  - [ ] Testing Lamini
+  - [ ] Testing Llama3-8b with Alpaca
+  - [ ] Testing Llama3-8b with Lamini
 - [x] Prepare Base Code
 - [ ] Demo Database
 - [ ] Database Connection Handler
