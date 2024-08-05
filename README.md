@@ -2,6 +2,7 @@
 
 Llama3 Based Fine Tuned SQL Assistant
 
+- [ ] Prepare Turkish SQL dataset
 - [ ] Prepare/Train Testing Model(s)
   - [ ] Testing Lamini
 - [x] Prepare Base Code
